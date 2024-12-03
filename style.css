@@ -1,0 +1,217 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+:root {
+    --default-font: "Open Sans", system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --heading-font: "Marcellus", sans-serif;
+    --nav-font: "Marcellus", sans-serif;
+
+
+}
+
+body{
+    overflow-x: hidden;
+    font-family: "Sriracha", cursive;
+  font-weight: 400;
+  font-style: normal
+
+
+}
+.navbar-brand img{
+    height: 40px;
+    width: 90%;
+
+}
+.navbar-nav ul li a:hover{
+    color: green;
+}
+.carousel-inner img{
+    margin-top:-40px ;
+    height: 90vh;
+}
+.carousel-caption{
+    bottom: 100px;
+
+}
+.plowing img{
+    height:230px;
+}
+.service2{
+    
+    height: 100vh;
+    width: 100%;
+}
+.servic-icon img{
+    height: 100px;
+    width: 100px;
+}
+
+.service_second_content h1{
+    color: white;  
+}
+.service_second_content p{
+    color:rgb(227, 220, 220);   
+}
+.service_second_content h4{
+    color: rgb(227, 220, 220);
+}
+.service_second_content h5{
+    color: white;
+}
+.service_second_content p{
+    font-size: 18px;
+}
+.service_second_content i{
+    width: 30px;
+}
+.testimonals1{
+    width: 150px;
+}
+.one_review{
+    width: 100%;
+}
+.one_review  .card{
+    border:none;
+}
+.content3{
+    margin: 200px 0px;
+}
+.card:hover{
+    color:rgb(49, 81, 49);
+}
+.subscribe{
+    background-color: rgb(247, 244, 244);
+    height: 60vh;
+
+}
+.form{
+    margin-top: 100px;
+    
+}
+.form-control{
+    height: 70px;
+    border: 2px solid black;
+    width: 400px;
+    border-right:none;
+}
+.search_button{
+    width: 100px;
+    border-left: none;
+    position: relative;
+    right: 10px;
+    border: none;
+    background-color: rgb(85, 154, 85);
+    color: white;
+}
+.service_second{
+    background-color: rgb(85, 154, 85);
+}
+.footer .foot-links ul{
+    list-style-type: none;
+    padding: 0px;
+    cursor: pointer;
+
+}
+
+.line{
+    width: 50px;
+    height: 4px;
+    border: 2px solid rgb(85, 154, 85);
+}
+.social-icon .fa-brands{
+    font-size: 30px;
+    gap: 30px;
+    
+}
+.social-icon i {
+    margin-left: 20px;
+    height: 40px;
+    width: 55px;  
+    border-radius: 5px;
+    background-color: rgb(26, 24, 24);
+
+}
+.social-icon i:hover{
+    background-color: rgb(85, 154, 85);
+    height: 35px;
+
+}
+.footer-icons{
+    background-color: black;
+}
+
+/* about page css */
+
+.about-img img{
+    height: 50vh;
+    width: 100%;
+    
+}
+.carousel-caption{
+    position: absolute;
+    top: 250px;
+}
+.team-icon{
+    position: absolute;
+    top: 100px;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    
+}
+.team-icon i{
+    background-color:white;
+    height: 40px;
+    width: 40px;
+    margin-bottom: 10px;
+    padding: 10px;
+    margin-left: 10px;
+}
+.team-icon i:hover{
+    background-color: rgb(85, 154, 85);
+    color: white;
+    transition: all 0.5s;
+}
+.team-content{
+    border: none;
+}
+.map{
+    width: 100%;
+}
+.get{
+    height: 80vh;
+    box-shadow: 2px 4px 5px black;
+}
+.carousel-caption{
+    
+    font-weight: 700;
+    font-size: 2rem;
+}
+.carousel-caption h1,p{
+    color: white;
+}
+.get-touch{
+    padding: 20px;
+   box-shadow: 0px 0px 10px black;
+}
+.inputss input{
+    height: 40px;
+    width: 100%;
+}
+#textarea{
+    height: 230px;
+    width: 100%;
+}
+
+
+
+  
+
+    
+
+
+
