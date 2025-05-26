@@ -207,6 +207,12 @@ body{
     width: 100%;
 }
 
+@media(max-width:915px){
+    .baba img{
+        width:430px;
+    }
+}
+
 
 
   
